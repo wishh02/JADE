@@ -1,6 +1,6 @@
 .body{
     background-color: ;
-    background-image: url(bg\ msg.png);
+    background-image: url(NOTE.png);
     background-repeat: no-repeat;
     background-size: cover;
    
@@ -61,4 +61,5 @@ button:hover {
 
 .button:active {
   transform: scale(0.9);
+
 }
